@@ -17,12 +17,13 @@ section {
   /* width: 16rem; */
   border-radius: 20px;
 }
-h3 {
-  /* font-size: 15px; */
-  font-weight: 700;
+h2 {
+  font-size: 15px;
+  font-weight: 700 !important;
+  color: hsl(218, 44%, 22%);
 }
 h6 {
-  /* font-size: 15px; */
-  font-weight: 500;
-  color: lightgray;
+  font-size: 15px;
+  font-weight: 400 !important;
+  color: darkgray;
 }

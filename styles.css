@@ -1,0 +1,28 @@
+body {
+  height: 100vh;
+  background-color: hsl(212, 45%, 89%);
+  font-family: "Outfit" !important;
+  font-size: 15px;
+}
+
+section {
+  height: 100vh;
+  background-color: hsl(220, 15%, 55%);
+}
+.qrcode_card {
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 20px;
+}
+.qrcode_scanner {
+  /* width: 16rem; */
+  border-radius: 20px;
+}
+h3 {
+  /* font-size: 15px; */
+  font-weight: 700;
+}
+h6 {
+  font-size: 15px;
+  font-weight: 500;
+  color: lightgray;
+}
